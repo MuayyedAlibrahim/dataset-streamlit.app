@@ -18,7 +18,7 @@ st.markdown("Bu uygulama, çeşitli sağlık parametrelerine dayanarak diyabet r
 # Veri setini yükleme
 @st.cache_data
 def load_data():
-    df = pd.read_csv('diabetes_prediction_dataset.csv')
+    df = pd.read_csv("data/diabetes_prediction_dataset.csv")
     # Sütun isimlerini Türkçe'ye çevirme
     df.rename(columns={
         'gender': 'cinsiyet',
