@@ -43,7 +43,7 @@ streamlit run app.py
 
 Uygulamanın canlı halini görmek için şu bağlantıya göz atabilirsiniz (yayına aldıktan sonra):
 
-https://muayyedalibrahim-dataset-streamlit-app.streamlit.app/
+https://diyabet-tahmin.streamlit.app
 
 📬 İletişim
 
