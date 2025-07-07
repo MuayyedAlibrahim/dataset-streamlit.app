@@ -43,7 +43,15 @@ streamlit run app.py
 
 Uygulamanın canlı halini görmek için şu bağlantıya göz atabilirsiniz (yayına aldıktan sonra):
 
+```bash
 https://diyabet-tahmin.streamlit.app
+```
+Kulanılan veri seti
+
+```bash
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+```
+
 
 📬 İletişim
 
