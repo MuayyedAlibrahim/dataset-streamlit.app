@@ -39,13 +39,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🌍 Canlı Yayın
 
-Uygulamanın canlı halini görmek için şu bağlantıya göz atabilirsiniz (yayına aldıktan sonra):
-
-```bash
-https://diyabet-tahmin.streamlit.app
-```
 Kulanılan veri seti
 
 ```bash
