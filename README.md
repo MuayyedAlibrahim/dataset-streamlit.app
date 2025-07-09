@@ -24,7 +24,7 @@ Makine öğrenmesi modeli olarak Random Forest kullanılmıştır.
 - `app.py`: Uygulamanın ana kod dosyası
 - `diabetes_prediction_dataset.csv`: Eğitim ve tahmin için kullanılan veri seti
 - `requirements.txt`: Gerekli Python kütüphaneleri
-- - `Untitled.ipynb`: Jupyter Notebook dosyası.
+- `Untitled.ipynb`: Jupyter Notebook dosyası.
 
 🚀 Uygulama Nasıl Çalıştırılır?
 
